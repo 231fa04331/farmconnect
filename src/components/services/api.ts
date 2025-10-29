@@ -1,6 +1,6 @@
 import {  LoanApplication } from '../types';
 
-const API_BASE_URL = 'https://farmconnect-backend-fwscpwk5i-231fa04331s-projects.vercel.app/api';
+const API_BASE_URL = 'https://farmconnect-backend-jou76loy8-231fa04331s-projects.vercel.app/api';
 
 // Get auth token
 const getAuthToken = (): string | null => localStorage.getItem('token');

@@ -53,7 +53,7 @@ const FarmerSignup = () => {
 
       // Send data to backend API
       const response = await axios.post(
-        'https://farmconnect-backend-fwscpwk5i-231fa04331s-projects.vercel.app/api/auth/register',
+        'https://farmconnect-backend-jou76loy8-231fa04331s-projects.vercel.app/api/auth/register',
         userData
       );
 
